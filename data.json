@@ -1,0 +1,389 @@
+    [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.98051989194151,
+            37.580770526758755
+          ],
+          "address": "서울 종로구 삼청로 54"
+        },
+        "properties": {
+          "markerType": "marker01",
+          "title": "🏠국제갤러리",
+          "description": "메타버스 전시관",
+          "imageUrl": "https://metaspace.kr/s3/pictorial_202112%2F72c6d438fc82f7448a19d5dc813a4fe6.jpeg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.95230037323736,
+            37.64176751192807
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "김기섭 작가",
+          "description": "메타버스 전시관",
+          "gallery": "https://assets.artplacer.com/virtual-exhibitions/?i=751",
+          "imageUrl": "https://metaspace.kr/s3/pictorial_202112%2F1c8dec68b995d0c7aaf40b3cd72adc92.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.97361691100214,
+            37.63493248883755
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "김연 작가",
+          "description": "메타버스 전시관",
+          "gallery": "https://assets.artplacer.com/virtual-exhibitions/?i=842"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.98386472161296,
+            37.635655252942534
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "홍순용 작가",
+          "description": "메타버스 전시관",
+          "gallery": "https://assets.artplacer.com/virtual-exhibitions/?i=749",
+          "imageUrl": "https://metaspace.kr/s3/pictorial_202112%2Fe58cd1ca918ac0ea9b72617182dfff97.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.96329592609517,
+            37.6331606186544
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "우주선 갤러리",
+          "description": "메타버스 전시관",
+          "gallery": "http://mybyapps.dothome.co.kr/Mvg/index.html",
+          "imageUrl":"https://metaspace.kr/s3/pictorial_202112%2Ff5fb8004089b24f3832556839ff5f2f8.png"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.99101693253894,
+            37.63075683044696
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "최은정 작가",
+          "description": "메타버스 전시관",
+          "gallery": "https://publish.exhibbit.com/gallery/477614750016246736/long-gallery-66831/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.054,
+            37.459
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "이주원 작가",
+          "description": "메타버스 전시관",
+          "gallery": "https://metaspace.kr/space/view/310621913a9a2de4f7357c8587cd291a",
+          "imageUrl":"https://metaspace.kr/s3/pictorial_202112%2F824335b6116c081379e0dfaebf65b2be.png"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.101,
+            37.487
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "김기섭 작가",
+          "description": "메타버스 전시관",
+          "gallery": "https://metaspace.kr/space/view/81b05ab6c5eafd26b2765544c28038c0"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            129.336,
+            35.5719
+          ],
+          "address": "울산광역시 중구 곽남길 95"
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "울산광역시 학생교육문화회관",
+          "description": "메타버스 전시관",
+          "gallery": "https://metaspace.kr/space/view/410043688885f71c41cdd1fd4e8edc6e",
+          "imageUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200805_137%2F1596592846783be76N_JPEG%2Fs1MieemqVhVsRA5pG3phZvCy.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.955,
+            37.6027
+          ],
+          "address": "서울특별시 종로구 홍지문2길 20"
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "상명대학교",
+          "description": "메타버스 전시관",
+          "gallery": "https://metaspace.kr/space/view/52c2ff214d22f211bb870424d5bcf80b",
+          "imageUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210108_280%2F1610073519970h7s0Y_JPEG%2FcMaGfsMj-Jw5fcVPaXWDHjxM.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.896,
+            37.44
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "홍순용 작가",
+          "description": "메타버스 전시관",
+          "gallery": "https://metaspace.kr/space/view/d8edd6852951b62b6bcd023b8f00e899",
+          "imageUrl": "https://metaspace.kr/s3/pictorial_202112%2Fe58cd1ca918ac0ea9b72617182dfff97.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.028,
+            37.501
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "아이작 작가",
+          "description": "메타버스 전시관",
+          "gallery": "https://metaspace.kr/space/view/f83cf9349c3de3a595bd6d862d13b35c",
+          "imageUrl":"https://metaspace.kr/s3/pictorial_202112%2F5d38dfca51db7c8698487adef2e07350.png"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.836,
+            37.512
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "서슬기 작가",
+          "description": "메타버스 전시관",
+          "gallery": "https://metaspace.kr/space/view/61f7ae85d85332aa3be449c6aeec1c42",
+          "imageUrl":"https://metaspace.kr/s3/pictorial_202112%2Fe45473a599f1f6e5ba008da182add9fd.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.989,
+            37.601
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "이혜리 작가",
+          "description": "메타버스 전시관",
+          "gallery": "https://metaspace.kr/space/view/de1dbc7dc48601ffebf5ac7000376a8f",
+          "imageUrl":"https://metaspace.kr/s3/pictorial_202112%2Fb2ee4768975076208b28f63ab31d6e0f.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.847,
+            37.546
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "넌지 작가",
+          "description": "메타버스 전시관",
+          "gallery": "https://metaspace.kr/space/view/4850a281eabdd096d820be0fd2d72682",
+          "imageUrl":"https://metaspace.kr/s3/pictorial_202112%2F1e7d7f12f4eaee697d1b588124e1543b.png"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.988,
+            37.531
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "심모비 작가",
+          "description": "메타버스 전시관",
+          "gallery": "https://metaspace.kr/space/view/cbe6326256aeb2debc2a3334a993e077",
+          "imageUrl":"https://metaspace.kr/s3/pictorial_202112%2Fe396260a03e698caa842a08fb44eaf87.png"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            128.413,
+            34.876
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "고성오광대",
+          "description": "메타버스 전시관",
+          "gallery": "https://metaspace.kr/space/view/cc485bddd6dfdbdd283a60e55098384a",
+          "imageUrl":"https://metaspace.kr/_data/img/make/Thumb_Classroom.png"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.03868126043717,
+            37.5656207332599
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "K현대미술관",
+          "description": "메타버스 전시관 분양중",
+          "imageUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180523_222%2F1527052998225iNE9N_JPEG%2FGJlxeC85g5SsovQz85IAr08r.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.59831522934492,
+            37.47550449491384
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker03",
+          "title": "메타랜드",
+          "description": "예술인마을",
+          "gallery": "artVill.html"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.05968027670372,
+            37.51130137834567
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "kiaf",
+          "title": "코엑스전시관",
+          "description": "메타 KIAF 전시",
+          "gallery": "coex.html",
+          "imageUrl": "https://kiaf.org/wp-content/themes/baton/assets/home/overview.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.03083909869281,
+            37.504132928352576
+          ],
+          "address": "서울특별시 강남구 테헤란로19길 77-11"
+        },
+        "properties": {
+          "markerType": "metalab",
+          "title": "메타랩",
+          "description": "메타랩 캐슬",
+          "gallery": "https://my.matterport.com/show/?m=8BaDMrnvRHw"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.02566183934404,
+            37.63782367911836
+          ],
+          "address": ""
+        },
+        "properties": {
+          "markerType": "marker02",
+          "title": "진 갤러리",
+          "description": "메타버스 전시관 분양중"
+        }
+      }
+    ]
